@@ -17,3 +17,5 @@ void Area::createRooms(int nRoomTotal) {
 void Area::setGhostRoom(int nRoomIndex) {
 
 }
+
+//test change
